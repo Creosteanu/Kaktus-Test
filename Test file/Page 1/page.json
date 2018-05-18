@@ -38,7 +38,11 @@
     },
     {
       "class": "symbolInstance",
+<<<<<<< HEAD
       "id": "D83F14D7-6DDF-45EC-B224-68A5449DBAE1"
+=======
+      "id": "7545A359-D0AB-454D-8729-A4C2581E0228"
+>>>>>>> 9061fb85451409d49be804334a8bf991068581b6
     }
   ],
   "name": "Page 1",
