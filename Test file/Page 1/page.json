@@ -34,11 +34,7 @@
   "layers": [
     {
       "class": "bitmap",
-<<<<<<< HEAD
       "id": "0BAD8D19-02AA-438F-9FD5-F556360DC0E4"
-=======
-      "id": "0F61E276-3D1C-4F0E-9F11-7CDA5BED6F94"
->>>>>>> 1f41796ab70012565c2390fa42d762f8d1c3eb63
     }
   ],
   "name": "Page 1",
