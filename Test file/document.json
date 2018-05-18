@@ -28,8 +28,8 @@
     ]
   },
   "meta": {
-    "appVersion": "50",
-    "build": 54983,
+    "appVersion": "50.2",
+    "build": 55047,
     "version": 103
   },
   "pages": [
@@ -37,7 +37,7 @@
   ],
   "userInfo": {
     "com.invisionlabs.getty0": {
-      "ids": "[{\"id\":\"650210514\",\"layerId\":\"162C415B-25FD-48AC-945C-8C510AC23A3A\"}]"
+      "ids": "[{\"id\":\"650210514\",\"layerId\":\"162C415B-25FD-48AC-945C-8C510AC23A3A\"},{\"id\":\"837551362\",\"layerId\":\"0F61E276-3D1C-4F0E-9F11-7CDA5BED6F94\"}]"
     },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
