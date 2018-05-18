@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "5c2914b0-5a80-11e8-89d7-61cc98ddf5c2",
+  "_class": "symbolInstance",
+  "do_objectID": "D83F14D7-6DDF-45EC-B224-68A5449DBAE1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,39 +13,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 44,
+    "width": 82,
+    "x": 91,
+    "y": 76
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "bitmap",
-      "id": "0BAD8D19-02AA-438F-9FD5-F556360DC0E4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D83F14D7-6DDF-45EC-B224-68A5449DBAE1"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Cells/Elements/Action",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -53,10 +39,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "01AA217A-010D-4D15-8A5D-62A63B86FCE0",
+  "verticalSpacing": 0
 }
